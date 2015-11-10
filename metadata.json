@@ -1,6 +1,6 @@
 {
     "concepts":["uwp"],
-    "lang":"c#",
+    "lang":"C#",
     "author":"cartermp",
     "title":"UWP Media Player",
     "description":"A media player app showcasing video and audio interaction."
